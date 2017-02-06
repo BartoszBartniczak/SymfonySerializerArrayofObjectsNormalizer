@@ -1,4 +1,4 @@
-BartoszBartniczak/SymfonySerializerArrayofObjectsNormalizer
+BartoszBartniczak/SymfonySerializerArrayofObjectsNormalizer [![Build Status](https://travis-ci.org/BartoszBartniczak/SymfonySerializerArrayofObjectsNormalizer.svg?branch=master)](https://travis-ci.org/BartoszBartniczak/SymfonySerializerArrayofObjectsNormalizer) [![Coverage Status](https://coveralls.io/repos/github/BartoszBartniczak/SymfonySerializerArrayofObjectsNormalizer/badge.svg?branch=master)](https://coveralls.io/github/BartoszBartniczak/SymfonySerializerArrayofObjectsNormalizer?branch=master)
 ===================================================
 ArrayOfObjects Normalizer for Symfony/Serializer component. This normalizer allows to (de-)serialize ArrayObjects and ArrayOfObjects from BartoszBartniczak\ArrayOfObjects library.
 --------------------------------------------------

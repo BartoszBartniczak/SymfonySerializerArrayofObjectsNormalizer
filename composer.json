@@ -1,5 +1,5 @@
 {
-  "name": "BartoszBartniczak/symfony-serializer-arrayofobjects-normalizer",
+  "name": "bartoszbartniczak/symfony-serializer-arrayofobjects-normalizer",
   "description": "ArrayOfObjects Normalizer for Symfony/Serializer component.",
   "minimum-stability": "dev",
   "prefer-stable": true,
